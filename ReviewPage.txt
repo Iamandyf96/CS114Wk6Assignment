@@ -1,0 +1,7 @@
+Website navigation along the top to other pages within the site
+Make, model, spec dropdowns to select the specific car review
+Central HTML text section containing the car review, 
+Embedded image of the specific car to the right side of the text section
+"Quick facts" section below the car image (containing fuel economy, 0-60, average price, top speed, etc...)
+Gallery below the review section containing a selection of images of the car
+Comparison tool below the "Quick Facts" section containing a further make, model and spec dropdown to compare the "quick facts" of the selected review car to another car.
