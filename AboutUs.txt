@@ -1,8 +1,12 @@
-GitHub Coursework: About Us Page Live
+GitHub Coursework: About Us Page Dev Branch
 
 1.	HTML text section at the top left of the screen to communicate the story of what our website offers and why we started the car enthusiast page
 2.	Single Image at the top right of the screen showing the owners of the page
 3.	Dropdown section at the top of the page to navigate to all other pages with website logo and slogan beside it
 4.	HTML text section with title below the website story explaining about the team
 5.	HTML text section at the bottom of the page with company details and social media links
-6.	Video compilation of car reviews to incorporate persuasive content, that might normally clutter our homepage 
+6.	Video compilation of car reviews below the team story to incorporate persuasive content, that might normally clutter our homepage 
+7.	Global coverage highlights section, below car video compilation, showing a world map outlining destinations we’ve reviewed cars
+8.	Include a live poll from google analytics showing total user visits of the website
+9.	Offer an advertisement section above our social media links, where we can offer to promote a customer’s brand to our audience
+

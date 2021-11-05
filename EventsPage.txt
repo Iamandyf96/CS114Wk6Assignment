@@ -1,7 +1,10 @@
-GitHub Coursework: Events Page Live
+GitHub Coursework: Events Page Dev Branch
 
 1.	Single image of our logo Top, center of our page
 2.	Dropdown option just below to allow navigation to all other pages
 3.	Event calendar: formed in a rectangle below dropdown options. Inside has options to filter by event type, region and dates
-4.	Under this, all search results will be displayed, matching your search criteria. Each one will be displayed in a box with HTML text showing the date, location and name of event
+4.	Under this, all search results will be displayed, matching your search criteria. Each one will be displayed in a green box with HTML text showing the date, location and name of event
 5.	At the bottom of the page will logos of social media links, clicking it will redirect users to our social pages
+6.	Before users search for an event, the page will ask for approval to use device location settings, and then if approved, display recommended events in your area. These will be displayed in the same style as search results but in a blue box instead
+7.	A section at the bottom of the page will be dedicated to ‘Terms Of Use’ and ‘Main Menu’. Underneath these will be a list of various links to navigate to other pages, such as: about us, privacy and Terms & Conditions
+
