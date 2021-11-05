@@ -6,3 +6,4 @@ Embedded image of the specific car to the right side of the text section
 "Quick facts" section below the car image (containing fuel economy, 0-60, average price, top speed, etc...)
 Gallery below the review section containing a selection of images of the car
 Comparison tool below the "Quick Facts" section containing a further make, model and spec dropdown to compare the "quick facts" of the selected review car to another car.
+Inclusion of a comments section to allow users to further engage on the car review
