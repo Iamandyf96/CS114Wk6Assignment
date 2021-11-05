@@ -5,3 +5,5 @@
 5. The page has an image of the club immediately below the navigation bar that is parralaxed with a section that comes over the top of it.
 6. This section has a brief overview of the club and lists the headline club news.
 7. In the website footer there is contact details, socials and sitemaps.
+8. Let the webpage be editable by a user who has logged in with the correct credentials.
+9. Remember who is currently logged in throughout the website.
