@@ -2,4 +2,5 @@ Website navigation along the top to other pages within the site
 Single section containing an Embedded Google Map 
 	The map will have markers to show all the applicable tunnels that can be driven through
 	Map can be resized and navigated to allow users to narrow in on a specific location
+Selectable icons that will display any available google streetview images of the tunnel
 	
