@@ -4,4 +4,6 @@
 4. In MainDiv there is a login button as currently members are only added through the club administrators.
 5. If a valid email and password is entered the boxes turn green and the page loads back to the review page.
 6. If an invalid email or password is enterd the boxes turn red and states "an invalid email or password has been entered"
+7. Adds Sign Up button, allows new users to be created through the website, this is selectable through a tag at the top of MainDiv
+8. If Sign Up button is pressed the div expands and it asks for an email with confirmation,a valid telephone number and password which it also asks for confirmation.
 
