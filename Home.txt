@@ -1,0 +1,7 @@
+1. In the top of the page there is a navigation bar with links to the review, about us, contact us, events pages.
+2. In the far right of the navigation bar there is the login button which takes you to the login page.
+3. In the far left of the navigation var the company logo is placed inline with the text.
+4. The navigation bar follows you down the page as you scroll compressing into a burger menu after the initial scroll.
+5. The page has an image of the club immediately below the navigation bar that is parralaxed with a section that comes over the top of it.
+6. This section has a brief overview of the club and lists the headline club news.
+7. In the website footer there is contact details, socials and sitemaps.
