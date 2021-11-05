@@ -1,0 +1,7 @@
+GitHub Coursework: Events Page Live
+
+1.	Single image of our logo Top, center of our page
+2.	Dropdown option just below to allow navigation to all other pages
+3.	Event calendar: formed in a rectangle below dropdown options. Inside has options to filter by event type, region and dates
+4.	Under this, all search results will be displayed, matching your search criteria. Each one will be displayed in a box with HTML text showing the date, location and name of event
+5.	At the bottom of the page will logos of social media links, clicking it will redirect users to our social pages
